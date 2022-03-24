@@ -1,0 +1,4 @@
+tqdm
+h5py
+torchtext==0.8
+psutil
