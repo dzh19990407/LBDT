@@ -7,8 +7,9 @@
 > *CVPR 2022 ([arxiv 2206.03789](https://arxiv.org/abs/2206.03789)) ([Demo](https://www.youtube.com/watch?v=ECdx871CayA))*
 
 ## News
-* [2022-03-24] Code will come soon.
+* [2022-06-24] Upload A2D pretrained models (Download from hyperlinks in Performance section).
 * [2022-06-08] Update codes.
+* [2022-03-24] Code will come soon.
 
 ## Abstract
 
@@ -73,8 +74,8 @@ sh scripts/eval.sh
 
 | Method | P@0.5 | P@0.6 | P@0.7 | P@0.8 | P@0.9 | AP   | Overall IoU | Mean IoU  |
 | ------ | ----- | ----- | ----- | ----- | ----- | ---- | ----------- | --------  |
-| LBDT-1 | 71.1  | 66.1  | 57.8  | 41.6  | 12.0  | 46.1 | 70.1        | 61.2      |
-| LBDT-4 | 73.0  | 67.4  | 59.0  | 42.1  | 13.2  | 47.2 | 70.4        | 62.1      |
+| [LBDT-1](https://drive.google.com/file/d/19DcWamgrUAOVia03J2C7NRzkXASo4U_M/view?usp=sharing) | 71.1  | 66.1  | 57.8  | 41.6  | 12.0  | 46.1 | 70.1        | 61.2      |
+| [LBDT-4](https://drive.google.com/file/d/12mI2jUwW3MtpODv58jnywcuTCDhqa956/view?usp=sharing) | 73.0  | 67.4  | 59.0  | 42.1  | 13.2  | 47.2 | 70.4        | 62.1      |
 
 ### J-HMDB Senteces
 
