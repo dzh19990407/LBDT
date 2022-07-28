@@ -7,6 +7,8 @@
 > *CVPR 2022 ([arxiv 2206.03789](https://arxiv.org/abs/2206.03789)) ([Demo](https://www.youtube.com/watch?v=ECdx871CayA))*
 
 ## News
+
+* [2022-07-28] Upload J-HMDB annotation files.
 * [2022-06-24] Upload A2D pretrained models (Download from hyperlinks in Performance section).
 * [2022-06-08] Update codes.
 * [2022-03-24] Code will come soon.
