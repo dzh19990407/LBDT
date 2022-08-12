@@ -95,9 +95,11 @@ sh scripts/eval.sh
 ## Citation
 
 ```
-@inproceedings{Ding_2022_CVPR,
-    author    = {Ding, Zihan and Hui, Tianrui and Huang, Junshi and Wei, Xiaoming and Han, Jizhong and Liu, Si},
-    title     = {Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation},
-    booktitle = {Proceedings of the IEEE/CVF Computer Vision and Pattern Recognition Conference (CVPR)},
-    year      = {2022}
+@inproceedings{ding2022language,
+  title={Language-Bridged Spatial-Temporal Interaction for Referring Video Object Segmentation},
+  author={Ding, Zihan and Hui, Tianrui and Huang, Junshi and Wei, Xiaoming and Han, Jizhong and Liu, Si},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4964--4973},
+  year={2022}
+}
 ```
